@@ -1,0 +1,29 @@
+.rowC{
+  display: table-row;
+  float: left;
+  width: 48vw;
+}
+.title{
+  text-align: center;
+}
+.subheader{
+  text-align: center;
+}
+.img {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  padding-right: 20px;
+}
+.left {
+  position: sticky;
+  top:0;
+}
+.right {
+
+}
+.li{
+  display: flex;
+}
