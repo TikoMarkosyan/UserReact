@@ -7,3 +7,6 @@ export default function Header(props) {
 Header.propTypes = {
    optionalObject: PropTypes.object
 };
+Header.defaultProps = {
+  title: "somthing went wrong",
+}
